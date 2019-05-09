@@ -190,32 +190,9 @@ footer {
 	letter-spacing: 1px;
 }
 
-footer ul {
-	display: flex;
-	justify-content: center;
-	margin-bottom: 8px;
-	padding-top: 20px;
-	padding-left: 0;
-	text-decoration: none;
-	list-style: none;
-}
-
-footer ul li {
-	margin: 0 40px;
-}
-
-footer ul li a {
-	color: white;
-	font-size: 12px;
-	text-decoration: none !important;
-}
-
-footer ul li a:hover {
-	color: #ffc125;
-}
-
 footer p {
 	font-size: 10px;
+	padding-top: 23px;
 }
 
 /* CONTACT SECTION */
